@@ -26,4 +26,4 @@ Puedes ver los `Syllabus` de los semestres anteriores en:
 | [2018-1](https://github.com/IIC2233/Syllabus-2018-1) | [2018-2](https://github.com/IIC2233/Syllabus-2018-2) |
 | [2017-1](https://github.com/IIC2233/Syllabus-2017-1) | [2017-2](https://github.com/IIC2233/Syllabus-2017-2) |
 | [2016-1](https://github.com/IIC2233-2016-1/syllabus) | [2016-2](https://github.com/IIC2233-2016-02/Syllabus) |
-| [2015-1](https://github.com/IIC2233-2015-1/syllabus) | [2015-2](https://github.com/IIC2233-2015-2/syllabus) |
+| [2015-1](https://github.com/IIC2233-2015-1/syllabus) | [2015-2](https://github.com/IIC2233-2015-2/syllabus) | I made este cambio as part of my Advanced Programming course.
